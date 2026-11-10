@@ -6,5 +6,5 @@ install/
 log/
 *.log
 *.zip
-vosk-model-*/
 .git-credentials
+models/
