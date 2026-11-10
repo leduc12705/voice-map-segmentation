@@ -1,0 +1,71 @@
+map_frame: map
+zones:
+- id: A
+  name: Room
+  aliases:
+  - room
+  - khu vực a
+  - khu a
+  - vùng a
+  - zone a
+  goal:
+    x: -7.425
+    y: 7.575
+    yaw: 0.0
+  centroid:
+    x: -5.331
+    y: 5.493
+  area_m2: 70.83
+  clearance_m: 2.5
+- id: B
+  name: Bed
+  aliases:
+  - bed
+  - khu vực b
+  - khu b
+  - vùng b
+  - zone b
+  goal:
+    x: -5.925
+    y: -3.725
+    yaw: 0.0
+  centroid:
+    x: -1.826
+    y: -5.559
+  area_m2: 118.69
+  clearance_m: 2.0
+- id: C
+  name: OK
+  aliases:
+  - ok
+  - okay
+  - khu vực c
+  - khu c
+  - vùng c
+  - zone c
+  goal:
+    x: 8.575
+    y: -1.975
+    yaw: 0.0
+  centroid:
+    x: 4.918
+    y: -1.987
+  area_m2: 42.14
+  clearance_m: 2.05
+- id: D
+  name: 'No'
+  aliases:
+  - 'no'
+  - khu vực d
+  - khu d
+  - vùng d
+  - zone d
+  goal:
+    x: 10.025
+    y: 4.875
+    yaw: 0.0
+  centroid:
+    x: 5.928
+    y: 4.638
+  area_m2: 47.13
+  clearance_m: 1.52

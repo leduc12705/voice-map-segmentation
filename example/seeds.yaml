@@ -1,0 +1,4 @@
+seeds:
+  - {id: A, name: "Phòng học", aliases: ["phòng học", "lớp học"], x: -2.7, y: 0.0}
+  - {id: B, name: "Hành lang", aliases: ["hành lang"], x: 0.8, y: 0.0}
+  - {id: C, name: "Phòng thí nghiệm", aliases: ["phòng thí nghiệm", "phòng lab"], x: 4.0, y: 0.2}
